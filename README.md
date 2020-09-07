@@ -6,5 +6,4 @@ Essa aplicação foi criada para listar repositório do github consumindo a api 
 # Como rodar a aplicação!
   - Baixar rodar um git clone
   - rodar um yarn para instalar as dependencias e apos
-  - apos rodar "yarn start", pronto agora no porta 3000 você tera acesso a aplicação. 127.0.0.1:3000 / localhost:3000
-
+  - apos rodar "yarn start", pronto agora no porta 3000 você tera acesso a aplicação. 127.0.0.1:3000 /  http://localhost:3000
